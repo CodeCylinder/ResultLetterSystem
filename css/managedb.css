@@ -1,0 +1,60 @@
+
+	
+input[type="text"] {
+	float:right;
+	border: 2px #000000;
+	padding: 20px;
+	width: 80%;
+}
+input[type="submit"] {
+	color: red;
+	font-size:16px;
+	background-color: #FFFFFF;
+	border: 1px;
+	border-color:#000000;
+	border-radius: 12px;
+	width: 220px;
+	padding: 7px;
+	float: right;
+}
+	
+	
+.button:hover {
+    background-color: #EFEFEF;
+    color: #000000;}
+
+label{
+	color:#FFFFFF;
+	float:left;
+	font-size: 1em;
+	}
+	
+fieldset
+{
+  margin-left: 60px;
+  background-color:#C65353;
+  color: #FFF;
+  max-width:60%;
+  padding:32px;
+  border:2px solid black;
+  -moz-border-radius:8px;
+  -webkit-border-radius:8px;	
+  border-radius:8px;  
+}
+legend
+{
+	background-color: #C65353;
+	color:#FFFFFF;
+	border: 2px solid #000000;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+a{
+	font-family: Helvetica;
+	font-size: 15px;
+	color: #FFFFFF;
+	float:left;
+}
